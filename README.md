@@ -5,5 +5,4 @@
 
 #Add "pishudown.sh" and "startup.py" to /home/pi/ on the raspberry pi
 
-
-The retrogame.cfg file is my button setup, and is particular to my wiring.  Adjust the pin numbers as necessary.  Either place this file in /boot and replace the current file, or make changes to the existing file.
+retrogame.cfg is automatically created in /boot, and needs to be adjusted to your particular wiring.  I've included mine as an example.  
