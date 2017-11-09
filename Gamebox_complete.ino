@@ -12,7 +12,7 @@
 /****************************************************************************************************************************
  * Power button = pin 3 
  * In signal    = pin 6, A7
- * Out signal   = pin 7
+ * Out signal   = pin 2
  * Light string = pin 12 
  * Button light = pin 9
  * Relay        = pin 10
